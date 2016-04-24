@@ -3,5 +3,6 @@ module.exports = {
   // BubbleSortsdsds: require('./sorting/index'),
   BubbleSort: require('./lib/Sorting/BubbleSort'),
   MergeSort: require('./lib/Sorting/MergeSort'),
-  StandardSort: require('./lib/Sorting/StandardSort')
+  StandardSort: require('./lib/Sorting/StandardSort'),
+  QuickSort: require('./lib/Sorting/QuickSort')
 }

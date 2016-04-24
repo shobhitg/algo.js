@@ -21,6 +21,9 @@ suite.add('Array#BubbleSort', function() {
 .add('Array#MergeSortTest', function() {
   sortingTests.mergeSortTest(dummyTest);
 })
+.add('Array#QuickSortTest', function() {
+  sortingTests.quickSortTest(dummyTest);
+})
 // add listeners
 .on('cycle', function(event) {
  console.log(String(event.target));
