@@ -24,6 +24,9 @@ suite.add('Array#BubbleSort', function() {
 .add('Array#QuickSortTest', function() {
   sortingTests.quickSortTest(dummyTest);
 })
+.add('Array#InsertionSortTest', function() {
+  sortingTests.insertionSortTest(dummyTest);
+})
 // add listeners
 .on('cycle', function(event) {
  console.log(String(event.target));
