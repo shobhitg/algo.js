@@ -1,0 +1,2257 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getPo",
+				"getPort()	Gruntfile.js"
+			],
+			[
+				"nsxVa",
+				"nsxvaIP	serve.js"
+			],
+			[
+				"toLo",
+				"toLowerCase()"
+			],
+			[
+				"member",
+				"memberExpressionToString(node, str)	nsx-ext-dependency.js"
+			],
+			[
+				"syste",
+				"systemLoadUpVal	ClusterContainer.js"
+			],
+			[
+				"system",
+				"systemLoadDownVal	ClusterContainer.js"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"tzE",
+				"tzEndpoints	EditTransportNodeDialog.js"
+			],
+			[
+				"transportZo",
+				"transportZoneEndPoints	AddToTransportZoneDialog.js"
+			],
+			[
+				"ifPro",
+				"ifProps	ClusterContainer.js"
+			],
+			[
+				"act",
+				"activate()	ext-all-debug-ORG.js"
+			],
+			[
+				"userInputL",
+				"userInputList	FabricNodeStateGrid.js"
+			],
+			[
+				"response",
+				"responseText"
+			],
+			[
+				"search",
+				"searchResults"
+			],
+			[
+				"sear",
+				"searchResults"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"mi",
+				"migrantData"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"Link",
+				"LinkAnnotation"
+			],
+			[
+				"count",
+				"countValues"
+			],
+			[
+				"roll",
+				"rollbackTransaction"
+			],
+			[
+				"begin",
+				"beginNewTransaction"
+			],
+			[
+				"delete",
+				"deleteVariable"
+			],
+			[
+				"pro",
+				"React.PropTypes.array"
+			],
+			[
+				"handle",
+				"handleHoverIn"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"fo",
+				"focusedIndex"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"ite",
+				"items"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"au",
+				"autocomplete"
+			],
+			[
+				"each",
+				"Each"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/Sorting/MergeSort.js",
+			"settings":
+			{
+				"buffer_size": 879,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "benchmarks/sortingBenchmarks.js",
+			"settings":
+			{
+				"buffer_size": 829,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/sortingTests.js",
+			"settings":
+			{
+				"buffer_size": 9810,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/buildDox.js",
+			"settings":
+			{
+				"buffer_size": 439,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Readme.md",
+			"settings":
+			{
+				"buffer_size": 554,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/Sorting/StandardSort.js",
+			"settings":
+			{
+				"buffer_size": 458,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/Sorting/BubbleSort.js",
+			"settings":
+			{
+				"buffer_size": 440,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 206.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"format",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mini",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"javc",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"comment",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"javasc",
+				"Format: Javascript"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"javas",
+				"Javascript Beautify"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"j",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"for",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"jscs",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"git checkou",
+				"Git: Checkout Current File"
+			],
+			[
+				"git diff c",
+				"Git: Diff Current File"
+			],
+			[
+				"git l",
+				"Git: Log Current File"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"js",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"beau",
+				"SassBeautify"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"inden",
+				"IndentX: Indent"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"blame",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"git b",
+				"Git: Blame"
+			],
+			[
+				"find",
+				"Find: In Current Folder"
+			],
+			[
+				"inde",
+				"IndentX: Indent"
+			],
+			[
+				"git show",
+				"Git: Show Current File"
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"slate",
+				"Set Syntax: Slate"
+			],
+			[
+				"package sy",
+				"Package Syncing: Push Settings"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"syn javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"prefi",
+				"Autoprefix CSS"
+			],
+			[
+				"snippet",
+				"Snippet: @for"
+			],
+			[
+				"snippet for",
+				"Snippet: forEach"
+			],
+			[
+				"snipper",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"Snippet",
+				"Snippet: Prototype"
+			],
+			[
+				"Snippet:",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"t oggle",
+				"Toggle Comment"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 773.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"import sublime_plugin",
+			"import sublime",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/shobhitg/dev/algo.js",
+		"/Users/shobhitg/dev/algo.js/benchmarks",
+		"/Users/shobhitg/dev/algo.js/docs",
+		"/Users/shobhitg/dev/algo.js/lib",
+		"/Users/shobhitg/dev/algo.js/lib/Sorting",
+		"/Users/shobhitg/dev/algo.js/scripts",
+		"/Users/shobhitg/dev/algo.js/tests"
+	],
+	"file_history":
+	[
+		"/Users/shobhitg/dev/algo.js/.editorconfig",
+		"/Users/shobhitg/dev/algo.js/lib/Sorting/MergeSort.js",
+		"/Users/shobhitg/dev/algo.js/lib/Sorting/BubbleSort.js",
+		"/Users/shobhitg/dev/algo.js/benchmarks/sortingBenchmarks.js",
+		"/Users/shobhitg/dev/algo.js/tests/sortingTests.js",
+		"/Users/shobhitg/dev/algo.js/lib/Sorting/StandardSort.js",
+		"/Users/shobhitg/dev/algo.js/node_modules/benchmark/benchmark.js",
+		"/Users/shobhitg/dev/algo.js/package.json",
+		"/Users/shobhitg/dev/algo.js/index.js",
+		"/Users/shobhitg/dev/algo.js/output.md",
+		"/Users/shobhitg/dev/algo.js/.babelrc",
+		"/Users/shobhitg/dev/algo.js/scripts/buildDox.js",
+		"/Users/shobhitg/dev/algo.js/scripts/runTests.js",
+		"/Users/shobhitg/dev/algo.js/lib/BubbleSort.js",
+		"/Users/shobhitg/dev/algo.js/lib/index.js",
+		"/Users/shobhitg/dev/algo.js/lib/sorting/BubbleSort.js",
+		"/Users/shobhitg/dev/algo.js/lib/sorting/index.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/dne/js/model/RuleModel.js",
+		"/Users/shobhitg/src/nsx/mp/ui/node_modules/http-proxy/index.js",
+		"/Users/shobhitg/src/nsx/mp/reverse-proxy/packaging/tcserver/conf/server.xml",
+		"/Users/shobhitg/src/nsx/mp/ui/node_modules/grunt-contrib-connect/tasks/connect.js",
+		"/Users/shobhitg/src/nsx/mp/ui/cookieFetcher.js",
+		"/Users/shobhitg/src/nsx/mp/ui/node_modules/phantom/lib/page.js",
+		"/Users/shobhitg/src/nsx/mp/ui/package.json",
+		"/Users/shobhitg/src/nsx/mp/ui/custom_static_analysis.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/templates/portConnection.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/serve.js",
+		"/Users/shobhitg/src/nsx/mp/ui/node_modules/phantom/lib/shim.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/transportzones/EditTransportZoneDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/edgeconfiguration/components/ClusterProfilesCombo.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/index.html",
+		"/Users/shobhitg/src/nsx/mp/ui/src/libs/ext-all-debug-nsx.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/nsx/css/ExtOverrides.scss",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/common/js/store/WizardDefinition.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/common/js/components/objectselector/ObjectSelector.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/baseFw/js/view/common/EditObjectsAnchorDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/transportnodes/EditorMonitor.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/common/js/view/editor/BaseEditorContentContainer.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/edgeconfiguration/clusterprofiles/GridView.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/edgeconfiguration/edgeclusters/GridView.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/edgeconfiguration/components/AddToEdgeClusterDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/objectLibrary/js/controller/TagsController.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/objectLibrary/js/store/TagStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/routing/js/controller/BgpController.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/routing/js/view/nat/Grid.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/routing/js/controller/RoutingController.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/nsx/js/override/ExtOverrides.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/routing/js/common/Utils.js",
+		"/Users/shobhitg/src/nsx/mp/ui/build.js",
+		"/Users/shobhitg/src/nsx/mp/ui/bundler.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/AdminModule.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/controller/edgeclusters/EdgeClustersController.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/bridgeclusters/GridView.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/hosts/GridView.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/firewalling/js/view/common/BaseRulesTreeGrid.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/controller/FabricController.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/nsx/js/controller/Module.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/FabricModule.js",
+		"/Users/shobhitg/Library/Application Support/Karabiner/private.xml",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/common/CommonModule.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/uc/js/ucApp.js",
+		"/Users/shobhitg/src/nsx/mp/ui/REVIEW_TEST",
+		"/Users/shobhitg/src/nsx/mp/ui/Gruntfile.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/model/IpfixCollectorsModel.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/uc/js/view/overview/Main.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/uc/js/common/UpgradeUtil.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/uc/js/view/upgrade/Main.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/templates/clusterManagement.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/example/js/view/objectselector/ObjectSelectorExample.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/example/js/view/objectselector/SampleObjectTypeStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/common/js/components/objectselector/ObjectStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/common/js/components/objectselector/ObjectTypeStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/baseFw/js/store/SectionStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/model/IpfixModel.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/baseFw/js/controller/BaseFwController.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/model/uplinkprofiles/UplinkHostSwitchProfileDto.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/nsx/js/app.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/uc/js/view/overview/OverviewGrid.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/uc/js/view/overview/UpgradeHistoryGrid.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/nsx/js/store/Store.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/nsx/js/view/BaseView.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/example/js/view/objectselector/SampleObjectStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/transportnodes/AddHostSwitch.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/view/properties/Main.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/nsx/js/util/System.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/hosts/CreateTransportNodeDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/transportnodes/AddTransportNodeDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/nat/js/view/routers/Editor.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/tool/js/view/traceflow/TraceflowDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/nsx/js/misc/Glyphs.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/templates/host.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/view/ipfix/Main.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/view/ipfix/EditSwitchIpfixCollectorsDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/view/ipfix/EditSwitchIpfixConfigDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching/js/view/profiles/Editor.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/common/js/view/editor/AbstractObjectEditor.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/objectLibrary/ObjectLibraryModule.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/adminConsole/AdminConsoleModule.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/uc/js/view/Viewport.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching/js/model/L2PortDesiredModel.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching/js/model/AddressBindingModel.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/common/js/model/BatchRequestModel.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/common/js/view/PaginatedTagField.js",
+		"/Users/shobhitg/src/nsx/mp/ui/build/nsx-all-file-order.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/common/js/model/BatchRequestItem.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/routing/js/view/routemaps/RouteMapSequenceGrid.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/dashboard/js/store/NsxInfrastructureStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/README.md",
+		"/Users/shobhitg/Downloads/nsxapi/nsx-all-file-order.min.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/view/overview/ClusterContainer.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/view/certificates/GenerateCsrDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/routing/js/view/routeredistribution/AddEditRuleDialog.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching/js/store/L2PortStatusSummaryStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/transportzones/EditorSummary.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching/js/store/L2SwitchStatusSummaryStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/common/js/view/PaginatedTagfield.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/tool/js/store/TraceflowObservationStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/controller/IpfixController.js",
+		"/Users/shobhitg/src/nsx/mp/ui/node_modules/grunt-contrib-connect/node_modules/connect/lib/connect.js",
+		"/Users/shobhitg/src/nsx/mp/ui/build/nsx-all.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/store/clustermanagement/ClustersAggregateInfoStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/store/AAAProviderStore.js",
+		"/Users/shobhitg/src/nsx/mp/ui/mock/mockConfig.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/controller/OverviewController.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/dashboard/js/controller/SystemOverviewController.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/controller/PropertiesController.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/search/js/controller/SearchController.js",
+		"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin/js/controller/CertificatesController.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view",
+			"<project>",
+			"*.yml",
+			"<project>",
+			"<project>,/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric",
+			"<project>",
+			"/Users/shobhitg/src/nsx/mp/ui/src/nsx/",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/admin",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/switching",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric",
+			"<project>",
+			"/Users/shobhitg/src/nsx/mp/ui",
+			"<project>",
+			"<current project>",
+			"",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/routing/js",
+			"<current folder>",
+			"<project files>",
+			"/Users/shobhitg/src/nsx/mp/common/src/main/resources/api_spec",
+			"/Users/shobhitg/src/nsx/mp/proton/nsx-api/src/main/resources/api_spec/root/",
+			"/Users/shobhitg/src/nsx/mp/proton/nsx-api/src/main/resources/api_spec/root/nsx-query/nsx-query.yml",
+			"<project files>",
+			"/Users/shobhitg/src/nsx/mp/ui/src/nsx/js/view",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/tool/js/view/common",
+			"<project files>",
+			"<project>",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/",
+			"/Users/shobhitg/src/nsx/mp/ui/src/modules/fabric/js/view/",
+			"<open folders>",
+			"/Users/shobhitg/dev/lunr.js/lib",
+			"/Users/shobhitg/dev/building-blocks/public/js",
+			"<project>",
+			"/Users/shobhitg/dev/pdf2json",
+			"/Users/shobhitg/dev/skroll/Archive/pdfReader/node_modules/pdf2json"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",",
+			"mergeSort",
+			"items",
+			"result",
+			"inspect",
+			"log",
+			"fastest",
+			"Fastest",
+			"out",
+			"input",
+			"bench",
+			"run",
+			"Bubble",
+			"bubbleSort",
+			"BubbleSort",
+			"input",
+			"bubble",
+			"bubbleSort",
+			"BubbleSort",
+			"out",
+			"bs",
+			"inp",
+			"in",
+			"\n",
+			"DneKeyPolicyType",
+			"NetworkEncryption",
+			"DneKeyPolicyType",
+			"nsx.Enums.NetworkEncryption.DneKeyPolicyType.encrypt_type",
+			"nsx.dne.model.RuleMode",
+			"prepare",
+			"copyCommonFilesToProdUc",
+			"Faker",
+			"faker",
+			"'configureProxies:server',",
+			"utils",
+			"httpProxy",
+			"proxyRequest",
+			"web",
+			"proxyRequest",
+			"httpProxy",
+			".request",
+			"1000",
+			"500",
+			"urlrouter",
+			",\n",
+			"rejectUnauthorized",
+			"xsrf",
+			"proxyOption",
+			"registerP",
+			"registerProxy",
+			"proxies",
+			"headers",
+			"Headers",
+			"headers",
+			"sdch",
+			"cookieStr",
+			"cookies",
+			"[0]",
+			"arr",
+			"[i]",
+			"minimist",
+			"casper.echo",
+			"morgan",
+			"faker",
+			"\":",
+			"debug",
+			"morgan",
+			"getPort",
+			"getPort\n",
+			"rewrite",
+			"protocol",
+			"getProxyProps",
+			"grunt.lo",
+			"getCookie",
+			"Nsx Application cookie",
+			"NSX ",
+			"NSX Appl",
+			"getCookie",
+			"doRpcRequest",
+			"v1",
+			"isJsonRpcCall",
+			"nsxvaIP",
+			"applyMock",
+			"serve",
+			"model: \"",
+			"getDialogProperties",
+			"model",
+			"model: \"",
+			"model",
+			"TransportNodeStatusModel",
+			"me.model.load(transportNodeId,",
+			"me.model.load(transportNodeId, {",
+			"syncRequire",
+			"syncrequire",
+			"AddToEdgeClusterDialog",
+			"ClusterProfilesCombo",
+			"AddToEdgeClusterDialog",
+			"ClusterProfilesCombo",
+			"nsx.fabric.view.edgeconfiguration.components.ClusterProfilesCombo",
+			"syncrequire",
+			"ClusterProfilesCombo",
+			"edittransportzone",
+			"nsx.fabric.edittransportzone",
+			"[type]",
+			"throw err",
+			"Ext.tip.ToolTip",
+			"future",
+			"nsx.objectLibrary.store.TagStore",
+			"listTags",
+			"showDialog",
+			"RoutingUtil.show",
+			"RoutingUtil.",
+			"nsx.routing.common.Utils",
+			"AddEditNATRule",
+			"aaa",
+			"EditableAggregateRouteGrid",
+			"73685474",
+			"nsx.fabric.view.hosts.AddHostDialog",
+			"CSR",
+			"baseRouteUrl",
+			"me",
+			"baseRouteUrl",
+			"buildroute(",
+			"buildrou",
+			"uc.application.buildRoute(",
+			"uc.application.buildRoute",
+			"buildRoute(",
+			"buildRoute"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"uc.common.UpgradeUtil.buildRoute(",
+			"nsxTagField",
+			"nsx.common.view.PaginatedTagField\nnsxTagField",
+			"nsx.common.view.PaginatedTagField",
+			"viewClass",
+			"\\n at ",
+			"\\n at \\n",
+			"\\n# StackTrace\\n",
+			";\\n",
+			"nsx.common.misc.StoreReloadTimer",
+			"'"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/shobhitg/dev/algo.js"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/Sorting/MergeSort.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								760,
+								760
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"highlight_line": false,
+							"line_numbers": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 58
+							},
+							"vintage_lines.line": 29,
+							"vintage_lines.lines": 37,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "benchmarks/sortingBenchmarks.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 829,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"line_numbers": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 41
+							},
+							"vintage_lines.line": 17,
+							"vintage_lines.lines": 33,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tests/sortingTests.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"line_numbers": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": true,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_insert",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 1
+							},
+							"vintage_lines.line": 10,
+							"vintage_lines.lines": 38,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "scripts/buildDox.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"line_numbers": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": true,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_insert",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 15
+							},
+							"vintage_lines.line": 7,
+							"vintage_lines.lines": 19,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Readme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"is_xml": false,
+							"line_numbers": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": false,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 0,
+							"vintage_lines.lines": 48,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/Sorting/StandardSort.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"line_numbers": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 36
+							},
+							"vintage_lines.line": -1,
+							"vintage_lines.lines": 23,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "lib/Sorting/BubbleSort.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"line_numbers": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 9,
+							"vintage_lines.lines": 21,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 140.0
+	},
+	"output.git":
+	{
+		"height": 140.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pom",
+				"UI/pom.xml"
+			],
+			[
+				"grunt",
+				"UI/Gruntfile.js"
+			],
+			[
+				"jshint",
+				"UI/.jshintrc"
+			],
+			[
+				"application",
+				"UI/src/nsx/js/controller/Application.js"
+			],
+			[
+				"baseeditorcontent",
+				"UI/src/modules/common/js/view/editor/BaseEditorContentContainer.js"
+			],
+			[
+				"editormonitor",
+				"UI/src/modules/fabric/js/view/transportnodes/EditorMonitor.js"
+			],
+			[
+				"packa",
+				"UI/package.json"
+			],
+			[
+				"coo",
+				"UI/cookieFetcher.js"
+			],
+			[
+				"serve",
+				"UI/mock/serve.js"
+			],
+			[
+				"cook",
+				"UI/cookieFetcher.js"
+			],
+			[
+				"baseeditorcontentcontainer",
+				"UI/src/modules/common/js/view/editor/BaseEditorContentContainer.js"
+			],
+			[
+				"editormoni",
+				"UI/src/modules/fabric/js/view/transportnodes/EditorMonitor.js"
+			],
+			[
+				"exto",
+				"UI/src/nsx/js/override/ExtOverrides.js"
+			],
+			[
+				"extover",
+				"UI/src/nsx/css/ExtOverrides.scss"
+			],
+			[
+				"index",
+				"UI/src/index.html"
+			],
+			[
+				"edgerpofilescom",
+				"UI/src/modules/fabric/js/view/edgeconfiguration/components/ClusterProfilesCombo.js"
+			],
+			[
+				"cust",
+				"UI/custom_static_analysis.js"
+			],
+			[
+				"bundler",
+				"UI/bundler.js"
+			],
+			[
+				"build.",
+				"UI/build.js"
+			],
+			[
+				"utils.",
+				"UI/src/modules/routing/js/common/Utils.js"
+			],
+			[
+				"routingutil",
+				"UI/src/modules/routing/js/common/Utils.js"
+			],
+			[
+				"routingcon",
+				"UI/src/modules/routing/js/controller/RoutingController.js"
+			],
+			[
+				"inde",
+				"UI/src/index.html"
+			],
+			[
+				"bundle",
+				"UI/bundler.js"
+			],
+			[
+				"firewallgrid",
+				"UI/src/modules/firewalling/js/view/common/BaseRulesTreeGrid.js"
+			],
+			[
+				"hostgrid",
+				"UI/src/modules/fabric/js/view/hosts/GridView.js"
+			],
+			[
+				"common",
+				"UI/src/modules/common/CommonModule.js"
+			],
+			[
+				"fabricmod",
+				"UI/src/modules/fabric/FabricModule.js"
+			],
+			[
+				"module",
+				"UI/src/nsx/js/controller/Module.js"
+			],
+			[
+				"fabriccon",
+				"UI/src/modules/fabric/js/controller/FabricController.js"
+			],
+			[
+				"gridview",
+				"UI/src/modules/fabric/js/view/bridgeclusters/GridView.js"
+			],
+			[
+				"cooki",
+				"UI/cookieFetcher.js"
+			],
+			[
+				"ucapp",
+				"UI/src/uc/js/ucApp.js"
+			],
+			[
+				"bun",
+				"UI/bundler.js"
+			],
+			[
+				"commonm",
+				"UI/src/modules/common/CommonModule.js"
+			],
+			[
+				"objectselectorstore",
+				"UI/src/modules/common/js/components/objectselector/ObjectStore.js"
+			],
+			[
+				"objectstore",
+				"UI/src/modules/example/js/view/objectselector/SampleObjectStore.js"
+			],
+			[
+				"upgradehistorygrid",
+				"UI/src/uc/js/view/overview/UpgradeHistoryGrid.js"
+			],
+			[
+				"overview",
+				"UI/src/uc/js/view/overview/OverviewGrid.js"
+			],
+			[
+				"app.js",
+				"UI/src/nsx/js/app.js"
+			],
+			[
+				"nsxstore",
+				"UI/src/nsx/js/store/Store.js"
+			],
+			[
+				"viewbaseview",
+				"UI/src/nsx/js/view/BaseView.js"
+			],
+			[
+				"b",
+				"UI/bundler.js"
+			],
+			[
+				"app",
+				"UI/src/nsx/js/app.js"
+			],
+			[
+				"uplinkhost",
+				"UI/src/modules/fabric/js/model/uplinkprofiles/UplinkHostSwitchProfileDto.js"
+			],
+			[
+				"basefwco",
+				"UI/src/modules/baseFw/js/controller/BaseFwController.js"
+			],
+			[
+				"ipf",
+				"UI/src/modules/admin/js/model/IpfixCollectorsModel.js"
+			],
+			[
+				"addtrans",
+				"UI/src/modules/fabric/js/view/transportnodes/AddTransportNodeDialog.js"
+			],
+			[
+				"createtrans",
+				"UI/src/modules/fabric/js/view/hosts/CreateTransportNodeDialog.js"
+			],
+			[
+				"mockhost",
+				"UI/mock/templates/host.js"
+			],
+			[
+				"upgrademain",
+				"UI/src/uc/js/view/upgrade/Main.js"
+			],
+			[
+				"system",
+				"UI/src/nsx/js/util/System.js"
+			],
+			[
+				"extov",
+				"UI/src/nsx/js/override/ExtOverrides.js"
+			],
+			[
+				"gly",
+				"UI/src/nsx/js/misc/Glyphs.js"
+			],
+			[
+				"traced",
+				"UI/src/modules/tool/js/view/traceflow/TraceflowDialog.js"
+			],
+			[
+				"routersed",
+				"UI/src/modules/nat/js/view/routers/Editor.js"
+			],
+			[
+				"syste",
+				"UI/src/nsx/js/util/System.js"
+			],
+			[
+				"adminpropertiesmain",
+				"UI/src/modules/admin/js/view/properties/Main.js"
+			],
+			[
+				"build",
+				"UI/build.js"
+			],
+			[
+				"revi",
+				"UI/REVIEW_TEST"
+			],
+			[
+				"ipfixmai",
+				"UI/src/modules/admin/js/view/ipfix/Main.js"
+			],
+			[
+				"addressbin",
+				"UI/src/modules/switching/js/model/AddressBindingModel.js"
+			],
+			[
+				"switcingmodel",
+				"UI/src/modules/switching/js/model/L2PortDesiredModel.js"
+			],
+			[
+				"ipfixcoll",
+				"UI/src/modules/admin/js/model/IpfixCollectorsModel.js"
+			],
+			[
+				"ipfixcolle",
+				"UI/src/modules/admin/js/model/IpfixCollectorsModel.js"
+			],
+			[
+				"ipfix",
+				"UI/src/modules/admin/js/view/ipfix/Main.js"
+			],
+			[
+				"profileseditor",
+				"UI/src/modules/switching/js/view/profiles/Editor.js"
+			],
+			[
+				"ipfixmain",
+				"UI/src/modules/admin/js/view/ipfix/Main.js"
+			],
+			[
+				"ipfi",
+				"UI/src/modules/admin/js/model/IpfixModel.js"
+			],
+			[
+				"batchre",
+				"UI/src/modules/common/js/model/BatchRequestItem.js"
+			],
+			[
+				"ext",
+				"UI/src/nsx/js/override/ExtOverrides.js"
+			],
+			[
+				"paginated",
+				"UI/src/modules/common/js/view/PaginatedTagField.js"
+			],
+			[
+				"fabricc",
+				"UI/src/modules/fabric/js/controller/FabricController.js"
+			],
+			[
+				"traceflowo",
+				"UI/src/modules/tool/js/store/TraceflowObservationStore.js"
+			],
+			[
+				"mock",
+				"UI/mock/serve.js"
+			],
+			[
+				"cluster",
+				"UI/src/modules/admin/js/view/overview/ClusterContainer.js"
+			],
+			[
+				"ipfixmodel",
+				"UI/src/modules/admin/js/model/IpfixModel.js"
+			],
+			[
+				"gr",
+				"UI/Gruntfile.js"
+			],
+			[
+				"clusterc",
+				"UI/src/modules/admin/js/view/overview/ClusterContainer.js"
+			],
+			[
+				"aaap",
+				"UI/src/modules/admin/js/store/AAAProviderStore.js"
+			],
+			[
+				"searchcontr",
+				"UI/src/modules/search/js/controller/SearchController.js"
+			],
+			[
+				"firewallco",
+				"UI/src/modules/firewalling/js/controller/FirewallingController.js"
+			],
+			[
+				"routemap",
+				"UI/src/modules/routing/js/controller/RouteMapController.js"
+			],
+			[
+				"routerportcon",
+				"UI/src/modules/routing/js/controller/RouterPortController.js"
+			],
+			[
+				"switchingco",
+				"UI/src/modules/switching/js/controller/SwitchingController.js"
+			],
+			[
+				"searchc",
+				"UI/src/modules/search/js/controller/SearchController.js"
+			],
+			[
+				"proper",
+				"UI/src/modules/admin/js/controller/PropertiesController.js"
+			],
+			[
+				"admincon",
+				"UI/src/modules/admin/js/controller/AdminController.js"
+			],
+			[
+				"bund",
+				"UI/bundler.js"
+			],
+			[
+				"transportnodesele",
+				"UI/src/modules/fabric/js/store/bridgeclusters/TransportNodeSelectorStore.js"
+			],
+			[
+				"bundl",
+				"UI/bundler.js"
+			],
+			[
+				"addhosts",
+				"UI/src/modules/fabric/js/view/transportnodes/AddHostSwitch.js"
+			],
+			[
+				"fabric",
+				"UI/src/modules/fabric/FabricModule.js"
+			],
+			[
+				"routerportsgr",
+				"UI/src/modules/routing/js/view/routerports/Grid.js"
+			],
+			[
+				"routeremain",
+				"UI/src/modules/routing/js/view/routeredistribution/Main.js"
+			],
+			[
+				"tracerequest",
+				"UI/src/modules/tool/js/view/traceflow/TraceRequest.js"
+			],
+			[
+				"bservationsgrid",
+				"UI/src/modules/tool/js/view/traceflow/ObservationsGrid.js"
+			],
+			[
+				"logicalswitchportcombo",
+				"UI/src/modules/tool/js/view/common/LogicalSwitchPortCombo.js"
+			],
+			[
+				"profilesaddeditdialog",
+				"UI/src/modules/switching/js/view/profiles/AddEditDialog.js"
+			],
+			[
+				"addtenantlogicalrouter",
+				"UI/src/modules/routing/js/view/routers/AddTenantLogicalRouter.js"
+			],
+			[
+				"addproviderlogicalrouter",
+				"UI/src/modules/routing/js/view/routers/AddProviderLogicalRouter.js"
+			],
+			[
+				"portsddeditdialo",
+				"UI/src/modules/switching/js/view/ports/AddEditDialog.js"
+			],
+			[
+				"esetprofiledialog",
+				"UI/src/modules/switching/js/view/common/ResetProfileDialog.js"
+			],
+			[
+				"hangeprofiledialog",
+				"UI/src/modules/switching/js/view/common/ChangeProfileDialog.js"
+			],
+			[
+				"baseeditormanageprofile",
+				"UI/src/modules/switching/js/view/BaseEditorManageProfile.js"
+			],
+			[
+				"routereditor",
+				"UI/src/modules/routing/js/view/routers/Editor.js"
+			],
+			[
+				"routerseditorm",
+				"UI/src/modules/routing/js/view/routers/EditorMonitor.js"
+			],
+			[
+				"routersedi",
+				"UI/src/modules/nat/js/view/routers/Editor.js"
+			],
+			[
+				"routereditors",
+				"UI/src/modules/routing/js/view/routers/EditorSummary.js"
+			],
+			[
+				"routersedito",
+				"UI/src/modules/nat/js/view/routers/Editor.js"
+			],
+			[
+				"ddeditrouterpor",
+				"UI/src/modules/routing/js/view/routerports/AddEditRouterPort.js"
+			],
+			[
+				"outemaptreegrid",
+				"UI/src/modules/routing/js/view/routemaps/RouteMapTreeGrid.js"
+			],
+			[
+				"aseeditormanageconfiguratio",
+				"UI/src/modules/routing/js/view/BaseEditorManageConfiguration.js"
+			],
+			[
+				"routemapcombo",
+				"UI/src/modules/routing/js/common/RouteMapCombo.js"
+			],
+			[
+				"logicalrouterportsubnetcombobox",
+				"UI/src/modules/routing/js/common/LogicalRouterPortSubnetComboBox.js"
+			],
+			[
+				"ogicalroutercomb",
+				"UI/src/modules/routing/js/common/LogicalRouterCombo.js"
+			],
+			[
+				"pprefixlistcombo",
+				"UI/src/modules/routing/js/common/IPPrefixListCombo.js"
+			],
+			[
+				"transportgridv",
+				"UI/src/modules/fabric/js/view/transportnodes/GridView.js"
+			],
+			[
+				"uplinkprogr",
+				"UI/src/modules/fabric/js/view/uplinkprofiles/GridView.js"
+			],
+			[
+				"ippoolscom",
+				"UI/src/modules/fabric/js/view/transportnodes/IPPoolsCombo.js"
+			],
+			[
+				"addhostsw",
+				"UI/src/modules/fabric/js/view/transportnodes/AddHostSwitch.js"
+			],
+			[
+				"hostsgrid",
+				"UI/src/modules/fabric/js/view/hosts/GridView.js"
+			],
+			[
+				"fabricnodes",
+				"UI/src/modules/fabric/js/view/hosts/FabricNodeStateGrid.js"
+			],
+			[
+				"edgenodesgridview",
+				"UI/src/modules/fabric/js/view/edgeconfiguration/edgenodes/GridView.js"
+			],
+			[
+				"edgeclustersgrid",
+				"UI/src/modules/fabric/js/view/edgeconfiguration/edgeclusters/GridView.js"
+			],
+			[
+				"edgenodesgrid",
+				"UI/src/modules/fabric/js/view/edgeconfiguration/components/EdgeNodesGrid.js"
+			],
+			[
+				"addtoedgecl",
+				"UI/src/modules/fabric/js/view/edgeconfiguration/components/AddToEdgeClusterDialog.js"
+			],
+			[
+				"awprotocolgrid.",
+				"UI/src/modules/baseFw/js/view/common/RawProtocolGrid.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/Users/shobhitg/dev/algo.js/lib/Sorting"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
