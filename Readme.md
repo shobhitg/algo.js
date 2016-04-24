@@ -1,17 +1,5 @@
 
 
-<!-- Start lib/Sorting/MergeSort.js -->
-
-# Mergesort is a divide and conquer algorithm
-
-Conceptually, a merge sort works as follows:
- 1. Divide the unsorted list into n sublists, each containing 1 element (a list of 1 element is considered sorted).
- 2. Repeatedly merge sublists to produce new sorted sublists until there is only 1 sublist remaining. This will be the sorted list.
-
-The worst case in MergeSort is O(*n* log *n*).
-
-<!-- End lib/Sorting/MergeSort.js -->
-
 <!-- Start lib/Sorting/BubbleSort.js -->
 
 # Bubble Sort
@@ -35,6 +23,20 @@ Even other О(n²) sorting algorithms, such as insertion sort, tend to have bett
       end procedure
 
 <!-- End lib/Sorting/BubbleSort.js -->
+
+<!-- Start lib/Sorting/MergeSort.js -->
+
+# Mergesort
+
+Mergesort is a divide and conquer algorithm
+
+Conceptually, a merge sort works as follows:
+ 1. Divide the unsorted list into n sublists, each containing 1 element (a list of 1 element is considered sorted).
+ 2. Repeatedly merge sublists to produce new sorted sublists until there is only 1 sublist remaining. This will be the sorted list.
+
+The worst case in MergeSort is O(*n* log *n*).
+
+<!-- End lib/Sorting/MergeSort.js -->
 
 <!-- Start lib/Sorting/StandardSort.js -->
 
