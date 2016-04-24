@@ -4,7 +4,7 @@
   "description": "A javascript library for performant algorithms.",
   "main": "index.js",
   "scripts": {
-    "test": "./build/runTests.js"
+    "test": "./scripts/runTests.js"
   },
   "repository": {
     "type": "git",
