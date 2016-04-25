@@ -1,5 +1,7 @@
 ## About
 
+[![Join the chat at https://gitter.im/shobhitg/algo.js](https://badges.gitter.im/shobhitg/algo.js.svg)](https://gitter.im/shobhitg/algo.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![](https://travis-ci.org/shobhitg/algo.js.svg?branch=master)
 
 This project is about creating a NodeJS module for implementation of various computer science algorithms.
