@@ -14,7 +14,7 @@ There are three additional area that needs to go on side by side with the develo
 
 ## Development
 
- ### Prerequisites
+### Prerequisites
 
 This project uses some ES2105 constructs and will use whatever the latest version of Nodejs 5 supports.
 
