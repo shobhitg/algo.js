@@ -1,5 +1,7 @@
 ## About
 
+![](https://travis-ci.org/shobhitg/algo.js.svg?branch=master)
+
 This project is about creating a NodeJS module for implementation of various computer science algorithms.
 
 There are three additional area that needs to go on side by side with the development:
