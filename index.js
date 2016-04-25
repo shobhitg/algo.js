@@ -5,5 +5,7 @@ module.exports = {
   MergeSort: require('./lib/Sorting/MergeSort'),
   StandardSort: require('./lib/Sorting/StandardSort'),
   QuickSort: require('./lib/Sorting/QuickSort'),
-  InsertionSort: require('./lib/Sorting/InsertionSort')
+  InsertionSort: require('./lib/Sorting/InsertionSort'),
+  Heap: require('./lib/DataStructure/Heap.js'),
+  ArrayUtil: require('./lib/util/ArrayUtil.js')
 }

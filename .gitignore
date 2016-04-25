@@ -38,3 +38,6 @@ jspm_packages
 
 # Mac File system annoyances
 .DS_Store
+
+# temporarily not push any document, until its more final
+docs

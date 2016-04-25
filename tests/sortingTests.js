@@ -1,9 +1,10 @@
+'use strict';
 var lib = require('./..');
-var bubbleSort = new lib.BubbleSort();
-var standardSort = new lib.StandardSort();
-var mergeSort = new lib.MergeSort();
-var quickSort = new lib.QuickSort();
-var insertionSort = new lib.InsertionSort();
+var bubbleSort = lib.BubbleSort;
+var standardSort = lib.StandardSort;
+var mergeSort = lib.MergeSort;
+var quickSort = lib.QuickSort;
+var insertionSort = lib.InsertionSort;
 
 module.exports = {
     setUp: function (callback) {

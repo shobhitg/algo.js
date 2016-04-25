@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+'use strict';
 var Benchmark = require('benchmark');
 
 var sortingTests = require('./../tests/sortingTests');

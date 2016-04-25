@@ -1,0 +1,23 @@
+{
+    "tags": {
+        "allowUnknownTags": true
+    },
+    "source": {
+        "include": [
+            "./lib/"
+        ],
+        "exclude": [
+            "./lib/util"
+        ],
+        "includePattern": ".+\\.js(doc)?$"
+    },
+    "plugins": ["plugins/markdown"],
+    "opts": {
+        "template": "./node_modules/minami",
+        "encoding": "utf8",
+        "destination": "./docs",
+        "recurse": true,
+        "private": false,
+        "readme": "./readme.md"
+    }
+}
