@@ -2,17 +2,18 @@
 var lib = require('./..');
 var _ = require('lodash');
 
-var bubbleSort = lib.BubbleSort;
-var standardSort = lib.StandardSort;
-var mergeSort = lib.MergeSort;
-var quickSort = lib.QuickSort;
-var insertionSort = lib.InsertionSort;
-var heapSort = lib.HeapSort;
+var BubbleSort = lib.BubbleSort;
+var StandardSort = lib.StandardSort;
+var MergeSort = lib.MergeSort;
+var QuickSort = lib.QuickSort;
+var InsertionSort = lib.InsertionSort;
+var HeapSort = lib.HeapSort;
+var Heap = lib.Heap;
 
 module.exports = {
     setUp: function (callback) {
         var i = 0;
-        var n = 5000;
+        var n = 5;
         this.input_ascending_5k = [];
         this.input_random_5k = [];
         this.input_descending_5k = [];
@@ -25,7 +26,7 @@ module.exports = {
         for(i = n-1; i >= 0; i--) {
           this.input_descending_5k.push(i);
         }
-        this.expectedOutput_5k = standardSort.sort(this.input_random_5k.slice());
+        this.expectedOutput_5k = StandardSort.sort(this.input_random_5k.slice());
 
         var i = 0;
         var n = 100;
@@ -41,7 +42,7 @@ module.exports = {
         for(i = n-1; i >= 0; i--) {
           this.input_descending_100.push(i);
         }
-        this.expectedOutput_100 = standardSort.sort(this.input_random_100.slice());
+        this.expectedOutput_100 = StandardSort.sort(this.input_random_100.slice());
 
         callback();
     },
@@ -50,194 +51,188 @@ module.exports = {
         callback();
     },
     bubbleSort_ascending_5k: function (test) {
-        var output = bubbleSort.sort(this.input_ascending_5k.slice());
-        // console.log(this.input_ascending_5k);
+        var output = BubbleSort.sort(this.input_ascending_5k.slice());
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     mergeSort_ascending_5k: function (test) {
-        var output = mergeSort.sort(this.input_ascending_5k.slice());
-        // console.log(this.inout);
+        var output = MergeSort.sort(this.input_ascending_5k.slice());
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     standardSort_ascending_5k: function (test) {
-        var output = standardSort.sort(this.input_ascending_5k.slice());
+        var output = StandardSort.sort(this.input_ascending_5k.slice());
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     quickSort_ascending_5k: function (test) {
-        var output = quickSort.sort(this.input_ascending_5k.slice());
+        var output = QuickSort.sort(this.input_ascending_5k.slice());
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     insertionSort_ascending_5k: function (test) {
-        var output = insertionSort.sort(this.input_ascending_5k.slice());
+        var output = InsertionSort.sort(this.input_ascending_5k.slice());
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     heapSort_ascending_5k: function (test) {
-        var output = heapSort.sort(this.input_ascending_5k.slice());
+        var heap = new Heap(this.input_ascending_5k.slice());
+        var output = HeapSort.sort(heap);
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     bubbleSort_random_5k: function (test) {
-        var output = bubbleSort.sort(this.input_random_5k.slice());
-        // console.log(this.input_random_5k);
+        var output = BubbleSort.sort(this.input_random_5k.slice());
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     mergeSort_random_5k: function (test) {
-        var output = mergeSort.sort(this.input_random_5k.slice());
-        // console.log(this.inout);
+        var output = MergeSort.sort(this.input_random_5k.slice());
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     standardSort_random_5k: function (test) {
-        var output = standardSort.sort(this.input_random_5k.slice());
+        var output = StandardSort.sort(this.input_random_5k.slice());
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     quickSort_random_5k: function (test) {
-        var output = quickSort.sort(this.input_random_5k.slice());
+        var output = QuickSort.sort(this.input_random_5k.slice());
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     insertionSort_random_5k: function (test) {
-        var output = insertionSort.sort(this.input_random_5k.slice());
+        var output = InsertionSort.sort(this.input_random_5k.slice());
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     heapSort_random_5k: function (test) {
-        var output = heapSort.sort(this.input_random_5k.slice());
+        var heap = new Heap(this.input_random_5k.slice());
+        var output = HeapSort.sort(heap);
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     bubbleSort_descending_5k: function (test) {
-        var output = bubbleSort.sort(this.input_descending_5k.slice());
-        // console.log(this.input_descending_5k);
+        var output = BubbleSort.sort(this.input_descending_5k.slice());
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     mergeSort_descending_5k: function (test) {
-        var output = mergeSort.sort(this.input_descending_5k.slice());
-        // console.log(this.inout);
+        var output = MergeSort.sort(this.input_descending_5k.slice());
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     standardSort_descending_5k: function (test) {
-        var output = standardSort.sort(this.input_descending_5k.slice());
+        var output = StandardSort.sort(this.input_descending_5k.slice());
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     quickSort_descending_5k: function (test) {
-        var output = quickSort.sort(this.input_descending_5k.slice());
+        var output = QuickSort.sort(this.input_descending_5k.slice());
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     insertionSort_descending_5k: function (test) {
-        var output = insertionSort.sort(this.input_descending_5k.slice());
+        var output = InsertionSort.sort(this.input_descending_5k.slice());
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     heapSort_descending_5k: function (test) {
-        var output = heapSort.sort(this.input_descending_5k.slice());
+        var heap = new Heap(this.input_descending_5k.slice());
+        var output = HeapSort.sort(heap);
         test.deepEqual(output, this.expectedOutput_5k);
         test.done();
     },
     bubbleSort_ascending_100: function (test) {
-        var output = bubbleSort.sort(this.input_ascending_100.slice());
-        // console.log(this.input_ascending_100);
+        var output = BubbleSort.sort(this.input_ascending_100.slice());
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     mergeSort_ascending_100: function (test) {
-        var output = mergeSort.sort(this.input_ascending_100.slice());
-        // console.log(this.inout);
+        var output = MergeSort.sort(this.input_ascending_100.slice());
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     standardSort_ascending_100: function (test) {
-        var output = standardSort.sort(this.input_ascending_100.slice());
+        var output = StandardSort.sort(this.input_ascending_100.slice());
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     quickSort_ascending_100: function (test) {
-        var output = quickSort.sort(this.input_ascending_100.slice());
+        var output = QuickSort.sort(this.input_ascending_100.slice());
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     insertionSort_ascending_100: function (test) {
-        var output = insertionSort.sort(this.input_ascending_100.slice());
+        var output = InsertionSort.sort(this.input_ascending_100.slice());
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     heapSort_ascending_100: function (test) {
-        var output = heapSort.sort(this.input_ascending_100.slice());
+        var heap = new Heap(this.input_ascending_100.slice());
+        var output = HeapSort.sort(heap);
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     bubbleSort_random_100: function (test) {
-        var output = bubbleSort.sort(this.input_random_100.slice());
-        // console.log(this.input_random_100);
+        var output = BubbleSort.sort(this.input_random_100.slice());
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     mergeSort_random_100: function (test) {
-        var output = mergeSort.sort(this.input_random_100.slice());
-        // console.log(this.inout);
+        var output = MergeSort.sort(this.input_random_100.slice());
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     standardSort_random_100: function (test) {
-        var output = standardSort.sort(this.input_random_100.slice());
+        var output = StandardSort.sort(this.input_random_100.slice());
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     quickSort_random_100: function (test) {
-        var output = quickSort.sort(this.input_random_100.slice());
+        var output = QuickSort.sort(this.input_random_100.slice());
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     insertionSort_random_100: function (test) {
-        var output = insertionSort.sort(this.input_random_100.slice());
+        var output = InsertionSort.sort(this.input_random_100.slice());
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     heapSort_random_100: function (test) {
-        var output = heapSort.sort(this.input_random_100.slice());
+        var heap = new Heap(this.input_random_100.slice());
+        var output = HeapSort.sort(heap);
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     bubbleSort_descending_100: function (test) {
-        var output = bubbleSort.sort(this.input_descending_100.slice());
-        // console.log(this.input_descending_100);
+        var output = BubbleSort.sort(this.input_descending_100.slice());
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     mergeSort_descending_100: function (test) {
-        var output = mergeSort.sort(this.input_descending_100.slice());
-        // console.log(this.inout);
+        var output = MergeSort.sort(this.input_descending_100.slice());
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     standardSort_descending_100: function (test) {
-        var output = standardSort.sort(this.input_descending_100.slice());
+        var output = StandardSort.sort(this.input_descending_100.slice());
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     quickSort_descending_100: function (test) {
-        var output = quickSort.sort(this.input_descending_100.slice());
+        var output = QuickSort.sort(this.input_descending_100.slice());
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     insertionSort_descending_100: function (test) {
-        var output = insertionSort.sort(this.input_descending_100.slice());
+        var output = InsertionSort.sort(this.input_descending_100.slice());
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     },
     heapSort_descending_100: function (test) {
-        var output = heapSort.sort(this.input_descending_100.slice());
+        var heap = new Heap(this.input_descending_100.slice());
+        var output = HeapSort.sort(heap);
         test.deepEqual(output, this.expectedOutput_100);
         test.done();
     }

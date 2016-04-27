@@ -1,6 +1,6 @@
 'use strict';
 var lib = require('./..');
-var heap = lib.Heap;
+var Heap = lib.Heap;
 
 module.exports = {
     setUp: function (callback) {
@@ -13,9 +13,10 @@ module.exports = {
         callback();
     },
     buildMaxHeapTest: function (test) {
-        var output = heap.buildMaxHeap(this.input.slice());
+      var heap = new Heap(this.input);
+        var output = Heap.buildMaxHeap(heap);
         // console.log(this.input);
-        test.deepEqual(output.slice(), this.expectedOutput);
+        test.deepEqual(output.data, this.expectedOutput);
         test.done();
     }
 };
