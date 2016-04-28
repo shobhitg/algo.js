@@ -8,5 +8,7 @@ module.exports = {
   InsertionSort: require('./lib/Sorting/InsertionSort'),
   HeapSort: require('./lib/Sorting/HeapSort'),
   Heap: require('./lib/DataStructure/Heap.js'),
+  BSTNode: require('./lib/DataStructure/BST.js').BSTNode,
+  BST: require('./lib/DataStructure/BST.js').BST,
   ArrayUtil: require('./lib/util/ArrayUtil.js')
 }

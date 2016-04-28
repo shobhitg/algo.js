@@ -16,9 +16,9 @@ There are three additional area that needs to go on side by side with the develo
 
 ### Prerequisites
 
-This project uses some ES2105 constructs and will use whatever the latest version of Nodejs 5 supports.
+This project uses some ES2105 constructs and will use whatever the latest version of Nodejs 6 supports.
 
-Therefore, please make sure you have the latest NodeJS version 5.
+Therefore, please make sure you have the latest NodeJS version 6.
 
 **To install all dev dependencies**
 

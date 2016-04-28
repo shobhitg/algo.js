@@ -3,5 +3,6 @@
 var reporter = require('nodeunit').reporters.default;
 reporter.run([
   'tests/sortingTests.js',
-  'tests/heapTests.js'
+  'tests/heapTests.js',
+  'tests/binarySearchTreeTests.js'
 ]);
